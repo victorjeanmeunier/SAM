@@ -14,6 +14,8 @@ Processing / Arduino
 English / French / DUB
 
 ===============
+EMAIL
+sam@fabprojects.codes
 
 MORE INFO
 http://www.fabprojects.codes
